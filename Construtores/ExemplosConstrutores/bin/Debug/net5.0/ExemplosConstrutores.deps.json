@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExemplosConstrutores/1.0.0": {
+        "runtime": {
+          "ExemplosConstrutores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExemplosConstrutores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
